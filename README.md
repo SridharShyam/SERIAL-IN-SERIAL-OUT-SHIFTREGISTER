@@ -8,7 +8,7 @@ To implement  SISO Shift Register using verilog and validating their functionali
 
 Quartus prime
 
-**THEORY**
+**THEORY:**
 
 **SISO shift Register**
 
@@ -55,5 +55,6 @@ endmodule
 **TIMING DIGRAMS FOR SISO Shift Register**
 ![WhatsApp Image 2024-04-29 at 13 37 40_7b0ca514](https://github.com/ajinajoshpin/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/148514578/042ba3c4-5410-4fc6-bd9d-5d968327eb6b)
 
-**RESULTS**
-the output has been executed successfully
+**RESULTS:**
+
+The output has been executed successfully.
